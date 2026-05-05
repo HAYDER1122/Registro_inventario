@@ -1,5 +1,5 @@
 # -*- mode: python ; coding: utf-8 -*-
-# Especificación de PyInstaller para Sistema de Inventario v4
+# Especificación de PyInstaller para Sistema de Inventario v1
 # Generar exe: pyinstaller inventario.spec
 
 block_cipher = None
