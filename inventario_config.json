@@ -1,9 +1,0 @@
-{
-  "email_remitente": "hayderperez60@gmail.com",
-  "email_password": "wkzb flmj rppu iovu",
-  "email_destinatario": "hayderperez556@gmail.com",
-  "smtp_server": "smtp.gmail.com",
-  "smtp_port": 587,
-  "envio_automatico": true,
-  "tema": "oscuro"
-}
